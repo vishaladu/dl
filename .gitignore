@@ -1,5 +1,6 @@
 models/
 data/
 courses/
+__pycache__/
 .ipynb_checkpoints/
 *.csv
